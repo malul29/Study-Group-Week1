@@ -26,5 +26,4 @@ server web, basis data, email, file, dan lainnya. Karena Ubuntu Server berfokus 
 stabilitas, antarmuka grafisnya biasanya tidak disertakan secara default, sehingga penggunaannya 
 lebih banyak melalui antarmuka baris perintah (command line). 
 Link Download :        
-https://ubuntu.com/download/server/thank
-you?version=24.04.1&architecture=amd64&lts=true 
+https://ubuntu.com/download/server/thankyou?version=24.04.1&architecture=amd64&lts=true 
